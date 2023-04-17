@@ -1,3 +1,40 @@
+<h1>Book Management System</h1>
+
+<p>This is a simple web application for managing books. It allows users to add new books, update existing ones, and delete books. The application is built using Next.js, TypeScript, Supabase and Apollo GraphQL.</p>
+
+![image](https://user-images.githubusercontent.com/123214145/232581528-0796ed47-0cb8-4b49-bb08-3121b3543353.png)
+![image](https://user-images.githubusercontent.com/123214145/232581576-b58764d2-ba78-417e-a78d-de631e26d2e7.png)
+
+<h2>Usage</h2>
+
+<h2>Add a new book</h2>
+
+To add a new book, click on the "Add Book" button. Enter the book's title and image URL, and select the author from the dropdown list. Click on the "Add Book" button to save the book to the database.
+
+<h2>Update a book</h2>
+
+To update a book, click on the book's title. This will take you to the book's details page. Click on the "Edit Book" button to open the edit form. Make the necessary changes and click on the "Update Book" button to save the changes.
+
+<h2>Delete a book</h2>
+
+To delete a book, click on the book's title. This will take you to the book's details page. Click on the "Delete Book" button to remove the book from the database.
+
+<h2>Technology Stack</h2>
+
+- Next.js
+
+- TypeScript
+
+- Apollo GraphQL
+
+- Appolo Client
+
+- Appolo Server
+
+- GraphQL
+
+- Supabase
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
